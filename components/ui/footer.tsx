@@ -150,12 +150,12 @@ export function Footer() {
                   aria-label="Call Support"
                 >
                   <Phone className="h-3.5 w-3.5 text-primary" strokeWidth={1.75} />
-                  <span>+91 98112 34567</span>
+                  <span>+91 81029 77723</span>
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:support@grihaledger.in"
+                  href="mailto:raunakjha.dav@gmail.com"
                   className="flex items-center gap-1.5 text-slate-muted hover:text-primary transition-colors"
                   aria-label="Email Support"
                 >
