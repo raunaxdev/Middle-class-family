@@ -145,7 +145,7 @@ export function Footer() {
               </li>
               <li className="pt-2">
                 <a
-                  href="tel:+919811234567"
+                  href="tel:+918102977723"
                   className="flex items-center gap-1.5 text-slate-muted hover:text-primary transition-colors"
                   aria-label="Call Support"
                 >
@@ -160,7 +160,7 @@ export function Footer() {
                   aria-label="Email Support"
                 >
                   <Mail className="h-3.5 w-3.5 text-primary" strokeWidth={1.75} />
-                  <span>support@grihaledger.in</span>
+                  <span>raunakjha.dav@gmail.com</span>
                 </a>
               </li>
             </ul>
