@@ -102,18 +102,18 @@ export default function PrivacyPolicyPage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 pt-1">
                 <a
-                  href="mailto:support@grihaledger.in"
+                  href="mailto:raunakjha.dav@gmail.com"
                   className="flex items-center gap-2 text-xs font-semibold text-primary hover:underline"
                 >
                   <Mail className="h-4 w-4" strokeWidth={1.75} />
-                  <span>support@grihaledger.in</span>
+                  <span>raunakjha.dav@gmail.com</span>
                 </a>
                 <a
-                  href="tel:+919811234567"
+                  href="tel:+918102977723"
                   className="flex items-center gap-2 text-xs font-semibold text-primary hover:underline"
                 >
                   <Phone className="h-4 w-4" strokeWidth={1.75} />
-                  <span>+91 98112 34567</span>
+                  <span>+91 81029 77723</span>
                 </a>
               </div>
             </section>
